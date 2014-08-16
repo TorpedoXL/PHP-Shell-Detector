@@ -40,7 +40,7 @@
   $local['Last modified:'] = 'Son değiştirme:';
   $local['MD5 hash:'] = 'MD5-Hash:';
   $local['Filesize:'] = 'Dosya boyutu:';
-  $local['Please wait'] = 'Lütfen bekleyin';
+  $local['Please wait'] = 'Lütfen bekleyiniz';
   $local['<strong>Error: </strong>'] = '<strong>Hata: </strong>';
   $local[' line: '] = ' Satır: ';
 ?>
